@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Perpustakaan Digital</string>
+    <string name="detail">Detail</string>
+    <string name="books_title">Judul Buku</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="cardview">CardView</string>
+    <string name="love">LOVE</string>
+    <string name="read">READ</string>
+</resources>
