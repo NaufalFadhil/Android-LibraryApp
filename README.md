@@ -4,5 +4,11 @@ This is source code submission [Learn to Make Android Application for Beginner](
 ## Guide
 Run use [Android Studio](https://developer.android.com/studio).
 
-### License
+## License
 [dicoding.com](https://www.dicoding.com/academies/51)
+
+### Language
+Java
+
+### Software
+Android Studio
